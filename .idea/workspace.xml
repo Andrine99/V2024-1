@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b616bfaa-6755-477f-a0a6-4cd897743df9" name="Changes" comment="Endring 3">
-      <change beforePath="$PROJECT_DIR$/test1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test1/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b616bfaa-6755-477f-a0a6-4cd897743df9" name="Changes" comment="Endring 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706278492078</updated>
-      <workItem from="1706278493117" duration="2698000" />
+      <workItem from="1706278493117" duration="3076000" />
     </task>
     <task id="LOCAL−00001" summary="Test">
       <option name="closed" value="true" />
@@ -140,7 +138,21 @@
       <option name="presentableId" value="LOCAL−00010" />
       <updated>1706281046106</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL−00011" summary="Endring 4">
+      <option name="closed" value="true" />
+      <created>1706281471563</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1706281471563</updated>
+    </task>
+    <task id="LOCAL−00012" summary="Endring 5">
+      <option name="closed" value="true" />
+      <created>1706281576907</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1706281576907</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +165,8 @@
     <MESSAGE value="Endringer" />
     <MESSAGE value="Endringer 2" />
     <MESSAGE value="Endring 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Endring 3" />
+    <MESSAGE value="Endring 4" />
+    <MESSAGE value="Endring 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Endring 5" />
   </component>
 </project>
