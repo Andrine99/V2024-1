@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b616bfaa-6755-477f-a0a6-4cd897743df9" name="Changes" comment="Test2">
+    <list default="true" id="b616bfaa-6755-477f-a0a6-4cd897743df9" name="Changes" comment="Endring 3">
       <change beforePath="$PROJECT_DIR$/test1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706278492078</updated>
-      <workItem from="1706278493117" duration="2354000" />
+      <workItem from="1706278493117" duration="2698000" />
     </task>
     <task id="LOCAL−00001" summary="Test">
       <option name="closed" value="true" />
@@ -112,7 +112,35 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1706280738260</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Endringer">
+      <option name="closed" value="true" />
+      <created>1706280913043</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1706280913043</updated>
+    </task>
+    <task id="LOCAL−00008" summary="Endringer 2">
+      <option name="closed" value="true" />
+      <created>1706280978572</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1706280978572</updated>
+    </task>
+    <task id="LOCAL−00009" summary="Endringer 2">
+      <option name="closed" value="true" />
+      <created>1706281010117</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1706281010117</updated>
+    </task>
+    <task id="LOCAL−00010" summary="Endring 3">
+      <option name="closed" value="true" />
+      <created>1706281046106</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1706281046106</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +150,9 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Test1" />
     <MESSAGE value="Test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test2" />
+    <MESSAGE value="Endringer" />
+    <MESSAGE value="Endringer 2" />
+    <MESSAGE value="Endring 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Endring 3" />
   </component>
 </project>
